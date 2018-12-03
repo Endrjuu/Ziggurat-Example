@@ -1,0 +1,6 @@
+name: Ziggurat-Example
+version: 1.0-SNAPSHOT
+author: ThatKawaiiSam
+description: Effectivly displays how to use the Ziggurat Library in creating expansive player tablists.
+main: io.github.thatkawaiisam.zigguratexample.ZigguratExamplePlugin
+depend: [ProtocolLib]
